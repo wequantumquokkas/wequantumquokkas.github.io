@@ -16,3 +16,16 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+tailwind.config.js
+/node_modules
+
+# Ignore all log files and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore package-lock.json but not package.json
+# package.json is needed to install dependencies
+# package-lock.json is not needed for GitHub Pages
+package-lock.json
