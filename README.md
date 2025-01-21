@@ -1,3 +1,3 @@
 # QuantumQuokkas
 QuantumQuokkas
-landing page url: https://tsrinarmwong.github.io/QuantumQuokkas/
+landing page url: https://wequantumquokkas.github.io/
