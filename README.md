@@ -14,7 +14,6 @@ Welcome to the official website for **Grandma's Kitchen Cat**! This is a cozy an
 - 🐾 Meet the team behind the game
 - 📬 Contact information (Instagram, LinkedIn, etc.)
 - 💬 Q & A
-- 📅 Future Project / Roadmap
 
 ## 🚀 We're Recruiting Test Players!
 
